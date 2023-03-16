@@ -1,9 +1,0 @@
-name: math280
-channels:
-  - defaults
-dependencies:
-  - notebook
-  - numpy
-  - matplotlib
-  - scipy
-nbgitpuller
